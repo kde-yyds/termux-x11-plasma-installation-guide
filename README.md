@@ -4,8 +4,8 @@ termux-x11运行KDE Plasma教程
 ## termux 
 下载 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk 
 ## termux-x11
-下载https://github.com/kde-yyds/termux-x11-plasma-installation-guide/raw/master/termux-x11/termux-x11.apk 并安装
-打开termux
+下载https://github.com/kde-yyds/termux-x11-plasma-installation-guide/raw/master/termux-x11/termux-x11.apk 并安装  
+打开termux  
 apt install x11-repo wget -y  
 wget https://github.com/kde-yyds/termux-x11-plasma-installation-guide/raw/master/termux-x11/termux-x11.deb  
 apt install ./termux-x11.deb  
