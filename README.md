@@ -13,7 +13,7 @@ apt install ./termux-x11.deb
 建议用tmoe搭建
 ## ubuntu 21.10 impish
 ### why
-kwin 5.22.8之后xrender后端被删除，只能使用glx渲染后端，但termux-x11不支持glx,所以只能用xrender
+kwin 5.22.8之后xrender后端被删除，只能使用glx渲染后端，但termux-x11不支持glx,所以只能用xrender  
 ubuntu impish的kwin是5.22.5
 ### 安装
 #### 安装ubuntu focal
