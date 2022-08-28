@@ -19,8 +19,10 @@ ubuntu impish的kwin是5.22.5
 #### 安装ubuntu focal
 #### 升级到ubuntu impish
 ` echo deb http://old-releases.ubuntu.com/ubuntu impish main universe multiverse restricted > /etc/apt/sources.list.d/1.list  
-echo deb http://old-releases.ubuntu.com/ubuntu impish-updates main universe multiverse restricted > /etc/apt/sources.list.d/2/list    
-apt update    
+echo deb http://old-releases.ubuntu.com/ubuntu impish-updates main universe multiverse restricted > /etc/apt/sources.list.d/2/list  
+
+
+apt update  
 apt upgrade  `
 #### 安装plasma
 `apt install kde-full dbus-x11`
