@@ -1,5 +1,7 @@
 # termux-x11-plasma-installation-guide
-termux-x11运行KDE Plasma教程
+termux-x11运行KDE Plasma教程  
+this page is outdated. Please use this script instead.  
+https://github.com/kde-yyds/termux-x11-plasma-installer
 # 安装
 ## termux 
 下载 https://github.com/termux/termux-app/releases/download/v0.118.0/termux-app_v0.118.0+github-debug_arm64-v8a.apk 
